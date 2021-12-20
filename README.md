@@ -1,8 +1,8 @@
-### 🦄 Hi there, I'm Marilia 
+### 🐙 Hi there, I'm Marilia 
 
 - ✨ I'm a animation student, but currently learning coding.
 - 🌱 At the moment, learning C.
-- 📫 The best way to reach me is to send me an email.
+- 🪐 I'm from Florianópolis, Brazil.
 
 <!--
 **medealila/medealila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
