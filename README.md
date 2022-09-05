@@ -1,7 +1,7 @@
 ### 🐙 Hi there, I'm Marilia 
 
 - ✨ I'm a animation student, but currently learning coding.
-- 🌱 At the moment, learning C.
+- 🌱 At the moment, learning C and Python.
 - 🪐 I'm from Florianópolis, Brazil.
 
 <!--
